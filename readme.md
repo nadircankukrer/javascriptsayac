@@ -1,6 +1,7 @@
 # Sayaç
 - Javascript ile Sayaç.
 - LocalStorage kullanılmılştır. Sayfa kapandığında veriler kaybolmaz.
+- Sıfırla butonu eklendi
 
 ## Used Technologies
 - HTML
